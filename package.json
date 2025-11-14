@@ -1,0 +1,8 @@
+{
+  "name": "node-git-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ghukasyanne1991-glitch/my-first-repo.git",
+  "author": "Ghukasyan Anna<ghukasyanne1991@gmail.com>",
+  "license": "MIT"
+}
